@@ -1,0 +1,11 @@
+/media/faraz/New Volume/myStuff/Uni/Sem5/CompilerC/compilerProj/bin/Debug/netcoreapp2.1/compilerProj.deps.json
+/media/faraz/New Volume/myStuff/Uni/Sem5/CompilerC/compilerProj/bin/Debug/netcoreapp2.1/compilerProj.runtimeconfig.json
+/media/faraz/New Volume/myStuff/Uni/Sem5/CompilerC/compilerProj/bin/Debug/netcoreapp2.1/compilerProj.runtimeconfig.dev.json
+/media/faraz/New Volume/myStuff/Uni/Sem5/CompilerC/compilerProj/bin/Debug/netcoreapp2.1/compilerProj.dll
+/media/faraz/New Volume/myStuff/Uni/Sem5/CompilerC/compilerProj/bin/Debug/netcoreapp2.1/compilerProj.pdb
+/media/faraz/New Volume/myStuff/Uni/Sem5/CompilerC/compilerProj/obj/Debug/netcoreapp2.1/compilerProj.csprojAssemblyReference.cache
+/media/faraz/New Volume/myStuff/Uni/Sem5/CompilerC/compilerProj/obj/Debug/netcoreapp2.1/compilerProj.csproj.CoreCompileInputs.cache
+/media/faraz/New Volume/myStuff/Uni/Sem5/CompilerC/compilerProj/obj/Debug/netcoreapp2.1/compilerProj.AssemblyInfoInputs.cache
+/media/faraz/New Volume/myStuff/Uni/Sem5/CompilerC/compilerProj/obj/Debug/netcoreapp2.1/compilerProj.AssemblyInfo.cs
+/media/faraz/New Volume/myStuff/Uni/Sem5/CompilerC/compilerProj/obj/Debug/netcoreapp2.1/compilerProj.dll
+/media/faraz/New Volume/myStuff/Uni/Sem5/CompilerC/compilerProj/obj/Debug/netcoreapp2.1/compilerProj.pdb
